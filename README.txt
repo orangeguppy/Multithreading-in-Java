@@ -16,7 +16,7 @@ The manager of the factory specifies the number of sandwiches to pack. There is 
 Download the files, then run the sample input:
 java SandwichManager 10 4 4 3 3 3 3 5 4
 
-SAMPLE OUTPUT (in log.txt)
+SAMPLE OUTPUT (NOT WITHIN THE CONSOLE, INSTEAD WITHIN A NEWLY-CREATED LOG.TXT FILE)
 sandwiches:10
 bread capacity:4
 egg capacity:4
